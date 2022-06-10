@@ -8,7 +8,7 @@
 [Drools：规则加载 & 动态更新方案](https://github.com/TavenYin/Blog2/issues/1)
 
 # 公众号
-![](https://upload.jianshu.io/users/qrcodes/9949918/qrcode_for_gh_0aacaa1e29c4_258.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/320/h/320)
+![d96c470bc9bf0c6054c5442fee4dc31](https://user-images.githubusercontent.com/16395809/172974413-fd4ff37a-2f7b-4419-b1d1-e6bf492e2e38.jpg)
 
 # 最后
 喜欢的朋友，可以点个 star
