@@ -65,7 +65,7 @@
 
 ## [知乎](https://www.zhihu.com/people/yintianwen/posts)
 
-## 个人公众号
+## 微信公众号
 ![d96c470bc9bf0c6054c5442fee4dc31](https://user-images.githubusercontent.com/16395809/172974413-fd4ff37a-2f7b-4419-b1d1-e6bf492e2e38.jpg)
 
 
