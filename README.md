@@ -1,5 +1,3 @@
-yintianwen 个人博客精选
-
 # Blog 导航
 
 ## [All Blog](https://github.com/TavenYin/Blog2/labels/Blog)
