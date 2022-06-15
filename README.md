@@ -14,6 +14,8 @@ yintianwen 个人博客精选
 
 [响应式编程入门之 Project Reactor](https://github.com/TavenYin/Blog2/issues/23)
 
+[Project Reactor：OptimizableOperator 原理](https://github.com/TavenYin/Blog2/issues/24)
+
 ## [Microservices 系列](https://github.com/TavenYin/Blog2/labels/Microservices)
 
 [Opentracing 链路追踪实战](https://github.com/TavenYin/Blog2/issues/22)
