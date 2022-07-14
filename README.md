@@ -14,7 +14,7 @@
 
 [Project Reactor：OptimizableOperator 原理](https://github.com/TavenYin/Blog2/issues/24)
 
-[Project Reactor：OptimizableOperator 原理](https://github.com/TavenYin/Blog2/issues/25)
+[Spring Cloud Gateway Filter 执行原理刨析](https://github.com/TavenYin/Blog2/issues/25)
 
 ## [Microservices 系列](https://github.com/TavenYin/Blog2/labels/Microservices)
 
