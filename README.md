@@ -14,6 +14,8 @@
 
 [Project Reactor：OptimizableOperator 原理](https://github.com/TavenYin/Blog2/issues/24)
 
+[Project Reactor：OptimizableOperator 原理](https://github.com/TavenYin/Blog2/issues/25)
+
 ## [Microservices 系列](https://github.com/TavenYin/Blog2/labels/Microservices)
 
 [Opentracing 链路追踪实战](https://github.com/TavenYin/Blog2/issues/22)
