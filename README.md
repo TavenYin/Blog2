@@ -28,6 +28,8 @@
 
 ## [Spring 系列](https://github.com/TavenYin/Blog2/labels/Spring)
 
+[Spring Kafka：Retry Topic、DLT 的使用与原理](https://github.com/TavenYin/Blog2/issues/26)
+
 [SpringCloud NamedContextFactory 原理与使用](https://github.com/TavenYin/Blog2/issues/13)
 
 [Spring RestTemplate 设置每次请求的 Timeout](https://github.com/TavenYin/Blog2/issues/12)
@@ -39,6 +41,8 @@
 [Spring 源码解析：@RequestBody @ResponseBody 的来龙去脉](https://github.com/TavenYin/Blog2/issues/9)
 
 ## [Kafka 系列](https://github.com/TavenYin/Blog2/labels/Kafka)
+
+[Spring Kafka：Retry Topic、DLT 的使用与原理](https://github.com/TavenYin/Blog2/issues/26)
 
 [Kafka Connect 实战：入门](https://github.com/TavenYin/Blog2/issues/5)
 
